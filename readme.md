@@ -15,9 +15,9 @@ npm install
 npm run dev
 ```
 
-![screenshot](https://danielbuva.github.io/galaxy-generator/gg1.png?raw=true)
-![screenshot](https://danielbuva.github.io/galaxy-generator/gg2.png?raw=true)
-![screenshot](https://danielbuva.github.io/galaxy-generator/gg3.png?raw=true)
-![screenshot](https://danielbuva.github.io/galaxy-generator/gg4.png?raw=true)
-![screenshot](https://danielbuva.github.io/galaxy-generator/gg5.png?raw=true)
+![screenshot](https://github.com/danielbuva/galaxy-generator/blob/master/gg1.png?raw=true)
+![screenshot](https://github.com/danielbuva/galaxy-generator/blob/master/gg2.png?raw=true)
+![screenshot](https://github.com/danielbuva/galaxy-generator/blob/master/gg3.png?raw=true)
+![screenshot](https://github.com/danielbuva/galaxy-generator/blob/master/gg4.png?raw=true)
+![screenshot](https://github.com/danielbuva/galaxy-generator/blob/master/gg5.png?raw=true)
 
